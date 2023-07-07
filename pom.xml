@@ -58,7 +58,7 @@
                 <configuration>
                     <!-- Docker image name -->
                     <image>
-                        <name>realdiv/${project.artifactId}</name>
+                        <name>realbank/${project.artifactId}</name>
                     </image>
 				</configuration>
 			</plugin>
